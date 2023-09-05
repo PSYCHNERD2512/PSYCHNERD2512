@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 👨‍💻 Developer at DevCom, IIT Bombay<br>
 🎓 Studying Electrical Engineering at IIT Bombay<br>
-🚀 Flutter | 🐍 Python | 📝 C/C++ | 🌐 HTML/CSS/JS<br>
+🚀 Flutter | 🐍 Python | 🌐 Django | 📝 C/C++ | 🌐 HTML/CSS/JS<br>
 
 
