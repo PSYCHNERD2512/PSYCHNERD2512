@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨‍💻 Developer at DevCom, IIT Bombay
-🎓 Studying Electrical Engineering at IIT Bombay
-🚀 Flutter | 🐍 Python | 📝 C/C++ | 🌐 HTML/CSS/JS
+👨‍💻 Developer at DevCom, IIT Bombay<br>
+🎓 Studying Electrical Engineering at IIT Bombay<br>
+🚀 Flutter | 🐍 Python | 📝 C/C++ | 🌐 HTML/CSS/JS<br>
 
 
