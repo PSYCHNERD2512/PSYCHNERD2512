@@ -1,5 +1,5 @@
 ### Hi there 👋<br>
- <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mksguide.com%2Fbest-notion-aesthetic-cover-images%2F&psig=AOvVaw3Tj9F8Eq8CYwZP8KwUkJyq&ust=1694029446774000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiKicydlIEDFQAAAAAdAAAAABAJ">
+
 
 <!--
 **PSYCHNERD2512/PSYCHNERD2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
